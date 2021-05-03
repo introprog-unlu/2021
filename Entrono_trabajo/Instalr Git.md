@@ -40,5 +40,5 @@ user.name=agrup
 
 ```
 
-orpimimos q para salir
+oprimimos q para salir
 
