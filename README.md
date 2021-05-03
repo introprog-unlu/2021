@@ -15,5 +15,11 @@ Curso del año 2021 de la asignatura Introducción a la Programación de la UNLu
 
 ## Calendario 
 
+<<<<<<< HEAD
 :calendar: [calendario ] (https://docs.google.com/spreadsheets/d/1_whUXZ2_PF2o01EdSx5kXrXoz_AGH_g8ofvpcSORlc4/edit?usp=sharing)
+=======
+[calendario ](https://docs.google.com/spreadsheets/d/1_whUXZ2_PF2o01EdSx5kXrXoz_AGH_g8ofvpcSORlc4/edit?usp=sharing)
+
+
+>>>>>>> 2136bd271c7efb4a2f00b84f2246e3b74d7e4e48
 
