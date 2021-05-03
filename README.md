@@ -6,7 +6,7 @@ Curso del año 2021 de la asignatura Introducción a la Programación de la UNLu
 ### Clases Prácticas
 
 ### Equipo Docente
-* Rosana Matuk (Luján),
+* Rosana Matuk (Luján), 
 * Gustavo Croch (Luján),
 * Adriana Nannini (Chivilcoy),
 * Juan Ignacio Tonelli (Chivilcoy),
@@ -15,5 +15,7 @@ Curso del año 2021 de la asignatura Introducción a la Programación de la UNLu
 
 ## Calendario 
 
-https://docs.google.com/spreadsheets/d/1_whUXZ2_PF2o01EdSx5kXrXoz_AGH_g8ofvpcSORlc4/edit?usp=sharing
+[calendario ](https://docs.google.com/spreadsheets/d/1_whUXZ2_PF2o01EdSx5kXrXoz_AGH_g8ofvpcSORlc4/edit?usp=sharing)
+
+
 
