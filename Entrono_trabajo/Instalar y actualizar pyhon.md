@@ -59,8 +59,23 @@ veremos que nos sigue devolviendo la version anterior, por eso lo que debemos ha
 a la version 3.8 por defecto con el siguiente comando
 
 ```bash
-sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.8 2
+sudo update-alternatives --config python3 
 ```
+Estos nos retornara un cuadro donde seleccionaremos la version de python que queremos
+
+```
+Existen 2 opciones para la alternativa python3 (que provee /usr/bin/python3).
+
+  Selección   Ruta                Prioridad  Estado
+------------------------------------------------------------
+  0            /usr/bin/python3.7   2         modo automático
+* 1            /usr/bin/python3.7   2         modo manual
+  2            /usr/bin/python3.8   2         modo manual
+
+Pulse <Intro> para mantener el valor por omisión [*] o pulse un número de selección:
+```
+seleccionamos la version que queremos, en mi caso seleccion 2 y oprimo enter
+
 Ahora verificamos si en verdad cambio la version de python por defecto.
 
 ```bash
@@ -72,5 +87,7 @@ Y ahora si nos deberia devolver
 ```bash
 Python3.8.0
 ```
+
+en caso de querer cambiar nuevamente la version repetimos el paso anterior y elegimos la version que queremos
 
 
