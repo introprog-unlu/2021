@@ -5,7 +5,7 @@ Primero verificar si tenemos una version instalada
 
 ```bash
 
-python --version
+python3 --version
 
 ```
 
