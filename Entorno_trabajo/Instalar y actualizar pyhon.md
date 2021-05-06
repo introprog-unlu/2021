@@ -15,7 +15,7 @@ Si no tenemos python instalado o una version inferior deberemos actualizarla.
 
 # Instalar Python
 
-En este ejemplo vamos a instalar Pythin 3.8 
+En este ejemplo vamos a instalar Python 3.8 
 
 ```bash
 
